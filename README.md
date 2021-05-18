@@ -1,3 +1,4 @@
+![Screenshot (266)](https://user-images.githubusercontent.com/31856332/118682999-9bf53480-b81e-11eb-905b-e7047cb876cc.png)
 # Message-encryption-and-decryption
 Message-encryption-and-decryption
 Sending confidential messages with clean encoding and decoding.
