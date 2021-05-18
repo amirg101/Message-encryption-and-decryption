@@ -1,4 +1,3 @@
-![Screenshot (266)](https://user-images.githubusercontent.com/31856332/118682999-9bf53480-b81e-11eb-905b-e7047cb876cc.png)
 # Message-encryption-and-decryption
 Message-encryption-and-decryption
 Sending confidential messages with clean encoding and decoding.
@@ -24,3 +23,5 @@ Encoded : C D E F G H I ........ X Y Z A B C
 
 * Python program for Caesar's encypher that can accept any input and shift value from user and perform the encypher operation
 * & decypher operation if some encoded message is given as input.
+
+![Screenshot (266)](https://user-images.githubusercontent.com/31856332/118682999-9bf53480-b81e-11eb-905b-e7047cb876cc.png)
